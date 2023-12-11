@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Agregar un producto al carrito de compras" skipped="0" tests="1" time="51.12" timestamp="2023-11-30 11:10:47"><testcase name="Producto agregado al carrito de compras"><error message="null" type="java.lang.AssertionError">null</error><system-err>null&#13;
+com.demoblaze.stepDefinitions.CarritoCompraStepDefinitions.elUsuarioPuedeVerLaAlertaQueConfirmaElProductoDentroDelCarrito(CarritoCompraStepDefinitions.java:34)&#13;
+✽.el usuario puede ver la alerta que confirma el producto dentro del carrito(file:///C:/Users/migue/Downloads/DemoBlazeScreenPlay/ScreenPlay/src/test/resources/features/agregarProducto.feature:8)&#13;
+</system-err></testcase></testsuite>
